@@ -211,7 +211,8 @@ python manage.py migrate
 
 ## Credits
 
-Developed by Sumit Kumar
+Developed by Koushal Sethiya 
+All Copyright Reserved by Koushal Sethiya
 
 ---
 
