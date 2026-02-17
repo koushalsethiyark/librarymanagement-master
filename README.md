@@ -215,9 +215,3 @@ Developed by Koushal Sethiya
 All Copyright Reserved by Koushal Sethiya
 
 ---
-
-## Feedback
-
-Any suggestions and feedback are welcome!
-- [Contact on Facebook](https://fb.com/sumit.luv)
-- [Subscribe my Channel LazyCoder On Youtube](https://youtube.com/lazycoders)
