@@ -1,0 +1,4 @@
+- [x] Update librarymanagement/urls.py to use LogoutView with next_page='/'
+- [x] Update templates/library/navbaradmin.html to change logout href to "/logout"
+- [x] Update templates/library/navbarstudent.html to change logout href to "/logout"
+- [ ] Test the logout functionality
